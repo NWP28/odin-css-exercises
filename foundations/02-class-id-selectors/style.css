@@ -1,0 +1,21 @@
+/* style.css */
+
+.oddnum{
+    background-color: rgb(235, 136, 190);
+    font-family: Verdana, 'DejaVu Sans',sans-serif;
+}
+
+.fontlarge{
+    font-size: 24px;
+}
+
+#largeblue{
+    color:blue;
+    font-size:36px;
+}
+
+#greenbackthick{
+    background-color:lightgreen;
+    font-weight:bold;
+}
+
