@@ -1,0 +1,15 @@
+.blackandwhite {
+    background-color: black;
+    color: white;
+}
+
+.yellowandblack{
+    background-color:yellow;
+    color:black;
+}
+
+.blackandwhite,
+.yellowandblack{
+    font-size:28px;
+    font-family: Helvetica,'Times New Roman','sans-serif';
+}
